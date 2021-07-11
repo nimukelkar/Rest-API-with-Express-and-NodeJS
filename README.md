@@ -2,6 +2,7 @@
 Created a Rest API with NodeJS and Express
 
 What is an API?
+
       An API is an Application Programming Interface, that basically helps one software to talk to another.
 We hear about different kinds of API's like twitter's API or Instagram's API.Here we mean REST API's.
 REST is Representational State Transfer.
